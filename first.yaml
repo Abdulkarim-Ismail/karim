@@ -1,4 +1,9 @@
 name: kiko
 age: 20
 company: Accenture
+<<<<<<< HEAD
 "local repo"
+=======
+"remote repo"
+
+>>>>>>> d8291a32981c3231d59507e37b1075c19d97ad6f
